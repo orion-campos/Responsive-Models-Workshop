@@ -390,45 +390,52 @@ by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 ### Group2
+
 **Automatic Watering Plant System**
+
 Create an automatic watering plant system that will run a small 3V DC water pump to water a plant into a vase if the Soil Moisture Sensor into the vase reads a value higher than the optimal value of moisture for that plant, meaning that the soil is dry.
 If the moisture level reads by the sensor is higher than the optimal value of moisture for the plant, a red LED will turn on, and a message "Dry Soil :(" will appear on the LCD Screen, together with the water pump being turned on, if not, a green LED will turn on and a message "Happy Plant :)" will appear on the LCD Screen.
+
 The water compartment also has a Water Level Sensor with three different sizes of pins, which read three different values. If the sensor reads that the three pins are in contact with water a green LED will turn on, and a message "Waterlevel: Full" will appear on the LCD Screen. If the sensor reads that two pins are in contact with water, a yellow LED will turn on, and a message "WaterLevel: Half" will appear on the LCD Screen. If the sensor reads that only one pin is in contact with water, a red LED will turn on, and a message "WaterLevel: Empty" will appear on the LCD Screen.
 Also a condition was created that if the Soil Moisture Sensor reads a value higher than the optimal value of moisture for the plant, AND the Water Level Sensor reads that only one pin is in contact with water, the pump will not be turned on.
+
 Display the read values and the desirable information on the Serial Monitor of the Arduino IDE.
+
 Concept of project done by Karen Cariño, Jose Tong, Rex Mendoza Orense, Ricson Que under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde
 Manila, May 3rd to May 16th, 2017
 
 **Input:**
-1x Soil Moisture Sensor 5V DC <https://www.e-gizmo.com/>
-1x Water Level Sensor 5V DC <https://www.e-gizmo.com/>
+- 1x Soil Moisture Sensor 5V DC <https://www.e-gizmo.com/>
+- 1x Water Level Sensor 5V DC <https://www.e-gizmo.com/>
 
 **Output:**
-1x TIP120 Power Darlington Transistor
-1x 1N4001 Diode
-1x 10KO resistor
-1x Small Water Pump (similar to a 3V DC Motor)
-2x 5mm red LED
-1x 5mm yellow LED
-2x 5mm green LED
-5x 220O resistor
-1x LCD Screen (compatible with Hitachi HD44780 driver)
-1x 10KO Breadboard trim potentiometer
-1x 2.1mm DC barrel jack
-2X Switching Power Supply - Selectable Output 3-12VDC 1000mA
-created May 16th, 2017
-by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos> and Ricson Que
+- 1x TIP120 Power Darlington Transistor
+- 1x 1N4001 Diode
+- 1x 10KO resistor
+- 1x Small Water Pump (similar to a 3V DC Motor)
+- 2x 5mm red LED
+- 1x 5mm yellow LED
+- 2x 5mm green LED
+- 5x 220O resistor
+- 1x LCD Screen (compatible with Hitachi HD44780 driver)
+- 1x 10KO Breadboard trim potentiometer
+- 1x 2.1mm DC barrel jack
+- 2X Switching Power Supply - Selectable Output 3-12VDC 1000mA
+
+created May 16th, 2017 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos> and Ricson Que
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 ### Group3
 
 **Animatronic Owl**
+
 Create an animatronic owl, which will follow the user turning its head to the right or to the left side, by a servo motor, based o values read from two PIR sensors attached to opposite sides of the owl and pointed to different directions. If the PIR sensor reads a higher value (detects movement), the owl will turn its head to this specific direction (left or right). If none of the two PIR sensors detects movement, the owl will turn its head into a central position.
 The wings of the owl are attached each to one metal gear servo. They will turn up based on the values of one IFDS, meaning if the user is closer to the object, the wings move higher.
 
 An additional behaviour was added to the head, which hosts a photoresistor sensor. Two LEDs will be in the place of the eyes. They will be constantly turned on, until the photoresistor reads a very low value, meaning that someone is blocking the light with its hand (petting the owl), at this moment the LEDs will start to blink repeatedly.
 
 Display the read values and the desirable information on the Serial Monitor of the Arduino IDE.
+
 Concept of project done by Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cruz, and Patrick Sunico under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde
 Manila, May 3rd to May 16th, 2017
 
