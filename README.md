@@ -26,94 +26,94 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 - 1_blink
 	- 1_blink.ino
 	- blink.jpg
--2_rgb
-	-2_rgb.ino
-	-2_rgb.jpg
--3_button
-	-3_button.ino
-	-3_button.jpg
--4_if
-	-4_if.ino
-	-4_if.jpg
--5_photoresistor
-	-5_photoresistor.ino
-	-5_photoresistor.jpg
--6_piezo
-	-6_piezo.ino
-	-6_piezo.jpg
--7_PIR
-	-7_PIR.ino
-	-7_PIR.jpg
--8_IRDS
-	-8_IRDS.ino
-	-8_IRDS.jpg
--9_temp_hum
-	-9_temp_hum.ino
-	-9_temp_hum.jpg
--10_shift
-	-10_shift.ino
-	-10_shift.jpg
--11_shift_pot
-	-11_shift_pot.ino
-	-11_shift_pot.jpg
--12_dc_motor
-	-12_dc_motor.ino
-	-12_dc_motor.jpg
--13_dcmotor_onoff
-	-13_dcmotor_onoff.ino
-	-13_dcmotor_onoff.jpg
--14_servo
-	-14_servo.ino
-	-14_servo.jpg
--15_servo_IRDS
-	-15_servo_IRDS.ino
-	-15_servo_IRDS.jpg
+- 2_rgb
+	- 2_rgb.ino
+	- 2_rgb.jpg
+- 3_button
+	- 3_button.ino
+	- 3_button.jpg
+- 4_if
+	- 4_if.ino
+	- 4_if.jpg
+- 5_photoresistor
+	- 5_photoresistor.ino
+	- 5_photoresistor.jpg
+- 6_piezo
+	- 6_piezo.ino
+	- 6_piezo.jpg
+- 7_PIR
+	- 7_PIR.ino
+	- 7_PIR.jpg
+- 8_IRDS
+	- 8_IRDS.ino
+	- 8_IRDS.jpg
+- 9_temp_hum
+	- 9_temp_hum.ino
+	- 9_temp_hum.jpg
+- 10_shift
+	- 10_shift.ino
+	- 10_shift.jpg
+- 11_shift_pot
+	- 11_shift_pot.ino
+	- 11_shift_pot.jpg
+- 12_dc_motor
+	- 12_dc_motor.ino
+	- 12_dc_motor.jpg
+- 13_dcmotor_onoff
+	- 13_dcmotor_onoff.ino
+	- 13_dcmotor_onoff.jpg
+- 14_servo
+	- 14_servo.ino
+	- 14_servo.jpg
+- 15_servo_IRDS
+	- 15_servo_IRDS.ino
+	- 15_servo_IRDS.jpg
 
-# GRASSHOPPER3D
--1_circles	
-	-1_circles.3dm
-	-1_circles.gh
-	-1_circles.png
--2_turning_tower
-	-2_turning_tower.3dm
-	-2_turning_tower.gh
-	-2_turning_tower.png
--3_attractor_points
-	-3_attractor_points.3dm
-	-3_attractor_points.gh
-	-3_attractor_points.png
+### GRASSHOPPER3D
+- 1_circles	
+	- 1_circles.3dm
+	- 1_circles.gh
+	- 1_circles.png
+- 2_turning_tower
+	- 2_turning_tower.3dm
+	- 2_turning_tower.gh
+	- 2_turning_tower.png
+- 3_attractor_points
+	- 3_attractor_points.3dm
+	- 3_attractor_points.gh
+	- 3_attractor_points.png
 
-# FIREFLY
-	-FIREFLY.ino
-	-firefly_turning_tower.3dm
-	-firefly_turning_tower.gh
-	-110920_Firefly_Users_Guide.pdf
+### FIREFLY
+	- FIREFLY.ino
+	- firefly_turning_tower.3dm
+	- firefly_turning_tower.gh
+	- 110920_Firefly_Users_Guide.pdf
 
-# PROJECTS
--group1
-	-group1.ino
-	-group1.png
-	-group1_poster.pdf
--group2
-	-group2.ino
-	-group2.png
-	-shell.3dm
-	-shell.gh
-	-soil_moisture_sensor.pdf
-	-water_level_sensor.pdf
-	-group2_poster.pdf
--group3
-	-group3.ino
-	-group3.png
-	-group3_poster.pdf
+### PROJECTS
+- group1
+	- group1.ino
+	- group1.png
+	- group1_poster.pdf
+- group2
+	- group2.ino
+	- group2.png
+	- shell.3dm
+	- shell.gh
+	- soil_moisture_sensor.pdf
+	- water_level_sensor.pdf
+	- group2_poster.pdf
+- group3
+	- group3.ino
+	- group3.png
+	- group3_poster.pdf
 
-# README
+### README
 
 ---
 
-### ARDUINO
+# ARDUINO
 
-# 1_blink
+### 1_blink
 
 Blink
 Turns on an LED on and off repeatedly.
@@ -131,7 +131,7 @@ by Colby Newman
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 2_rgb
+### 2_rgb
 
 RGB LED
 Turn on an RGB LED with a series of predetermined colors, mixing values of red, green and blue light.
@@ -143,7 +143,7 @@ by Simon Monk <www.adafruit.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 3_button
+### 3_button
 
 Button
 Control the displayed colors of a RGB LED mixing values of red, green and blue by clicking on three buttons.
@@ -157,7 +157,7 @@ by Simon Monk <www.adafruit.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 4_if
+### 4_if
 
 If
 Turn a LED on if a button is pressed and turn it off if a second button is pressed using the 'IF' condition of Arduino.
@@ -172,7 +172,7 @@ by Simon Monk <www.adafruit.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 5_photoresistor
+### 5_photoresistor
 
 Photoresistor
 Turn a LED on by changing it brightness according to the values read by a photoresistor.
@@ -187,7 +187,7 @@ created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-# 6_piezo
+### 6_piezo
 
 Piezo Buzzer
 Play a Piezo buzzer, changing the pitch of the notes according to the values read by a photoresistor.
@@ -202,7 +202,7 @@ by Simon Monk <www.adafruit.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 7_PIR
+### 7_PIR
 
 Passive Infrared Sensor (PIR)
 Detect motion using a Passive Infrared Sensor (PIR), turning a LED on if there is motion.
@@ -216,7 +216,7 @@ created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-# 8_IRDS
+### 8_IRDS
 
 Infrared Distance Sensor (IRDS)
 Control the brighteness of a LED according to the values read by an Infrared Distance Sensor (IRDS), turning the LED brighter if the distance sensor reads a higher value (closer object).
@@ -230,7 +230,7 @@ created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-# 9_temp_hum
+### 9_temp_hum
 
 Temperature and Humidity Sensor
 Connect the DHT-22, also named as AM2302, a relative humidity and temperature sensor to an Arduino, and turn on an LED with an 'IF' statement.
@@ -247,7 +247,7 @@ by Michalis Vasilakis <www.ardumotive.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 10_shift
+### 10_shift
 
 Shift Register
 Control with a Shift Register (74HC595 Serial to Parallel Converter) up to eight LEDs with a predetermined pattern using only three pins of the Arduino.
@@ -260,7 +260,7 @@ by Simon Monk <www.adafruit.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 11_shift_pot
+### 11_shift_pot
 
 Shift Register and Potentiometer
 Control with a Shift Register (74HC595 Serial to Parallel Converter) up to eight LEDs with a pattern created by a potentiometer using only three pins of the Arduino.
@@ -275,7 +275,7 @@ by Simon Monk <www.adafruit.com>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 12_dc_motor
+### 12_dc_motor
 
 DC Motor and Infrared Distance Sensor
 Control the speed of a DC Motor (4.5 to 9VDC) according to the values read by an Infrared Distance Sensor (IRDS), turning the DC Motor faster if the distance sensor reads a higher value (closer object).
@@ -292,7 +292,7 @@ created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-# 13_dcmotor_onoff
+### 13_dcmotor_onoff
 
 ON/OFF mode of a DC Motor and a Photoresistor
 Turn a DC Motor (4.5 to 9VDC) on at a predetermined speed using, using a Photoresistor as a trigger.
@@ -309,7 +309,7 @@ created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-# 14_servo
+### 14_servo
 
 Servo Motor Sweep
 Sweeps one Micro Servo Motor back and forth across 180 degrees using two 'FOR' statements.
@@ -320,7 +320,7 @@ by SM <https://www.arduino.cc/en/Tutorial/Sweep>
 modified May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
-# 15_servo_IRDS
+### 15_servo_IRDS
 
 Two Servo Motors and one Infrared Distance Sensor (IRDS)
 Control the angle of two Servo Motors according to the values read by an Infrared Distance Sensor (IRDS), turning the Servo Motors on oposite directions if the distance sensor reads a higher value (closer object).
@@ -336,7 +336,7 @@ This work is licensed under Creative Commons <https://creativecommons.org/licens
 
 ---
 
-### GRASSHOPPER 3D
+# GRASSHOPPER 3D
 
 (Rhinoceros 3D and Grasshopper 3D files)
 
