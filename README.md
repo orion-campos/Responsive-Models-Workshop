@@ -1,6 +1,4 @@
-----------------------------------------------
-ABOUT
-----------------------------------------------
+### ABOUT
 
 Responsive Models Workshop from May 3 to May 16, 2017, at the De La Salle-College of Saint Benilde School of Design and Arts, Manila, Philippines, in which faculty members where taught by Orion Campos, during a two weeks workshop, the basics on electronics and digital fabrication to create a responsive object.
 
@@ -10,18 +8,18 @@ Conceptual development, organization, creation of classes and main tutoring by O
 Conceptual development by Associate Dean Maria Cynthia Funk.
 Organization and assistant tutoring by Patrick Sunico
 
-Group 1 - Lyle La Madrid, Ronald John Dalmacio, Harvey Vasquez
-Group 2 - Karen Cari–o, Jose Tong, Rex Mendoza Orense, Ricson Que
-Group 3 - Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cruz, and Patrick Sunico
+- **Group 1** Lyle La Madrid, Ronald John Dalmacio, Harvey Vasquez
+- **Group 2** Karen Cari–o, Jose Tong, Rex Mendoza Orense, Ricson Que
+- **Group 3** Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cruz, and Patrick Sunico
 
-All the files of the Arduino codes, images, Rhinoceros 3D, Grasshopper 3D, etc. are available for download at GitHub: https://github.com/orion-campos/Responsive-Models-Workshop
+[Video of the workshop results](https://vimeo.com/222001151)
+
+All the files of the Arduino codes, images, Rhinoceros 3D, Grasshopper 3D, etc. are available for download at [GitHub](https://github.com/orion-campos/Responsive-Models-Workshop)
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-https://vimeo.com/222001151
-
 Orion Campos
-www.orioncampos.com
+(www.orioncampos.com)
 linkedin.com/in/orioncampos
 vimeo.com/orioncampos
 github.com/orion-campos
