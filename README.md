@@ -11,7 +11,7 @@ Conceptual development by Associate Dean Maria Cynthia Funk.
 Organization and assistant tutoring by Patrick Sunico
 
 Group 1 - Lyle La Madrid, Ronald John Dalmacio, Harvey Vasquez
-Group 2 - Karen Cari–o, Jose Tong, Rex Mendoza Orense, Ricson Que
+Group 2 - Karen Cariâ€“o, Jose Tong, Rex Mendoza Orense, Ricson Que
 Group 3 - Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cruz, and Patrick Sunico
 
 All the files of the Arduino codes, images, Rhinoceros 3D, Grasshopper 3D, etc. are available for download at GitHub: https://github.com/orion-campos/Responsive-Models-Workshop
@@ -356,7 +356,7 @@ by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 2_turning_tower
 
 Turning Tower
-From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0º to 360º and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
+From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0Âº to 360Âº and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
 created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
@@ -387,7 +387,7 @@ by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 firefly_turning_tower
 
 Turning Tower
-From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0º to a specific angle determined by the plug-in Firefly and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
+From a closed and planar curve created in Rhinoceros 3D, moved into the axis Z by a series of 100 values, rotated by a range of 100 values from 0Âº to a specific angle determined by the plug-in Firefly and scaled by a range of 100 values from 10% to 100%; the curves were then transformed into a lofted surface and a planar surface, representing a skyscraper skin and its floors.
 The maximum rotation angle of the floors are remaped values read from a potentiometer connected to an Arduino <https://www.arduino.cc/>, and communicating with Grasshopper3D with the plug-in Firefly <http://www.fireflyexperiments.com/>.
 created May 4th, 2017
 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
@@ -426,7 +426,7 @@ If the moisture level reads by the sensor is higher than the optimal value of mo
 The water compartment also has a Water Level Sensor with three different sizes of pins, which read three different values. If the sensor reads that the three pins are in contact with water a green LED will turn on, and a message "Waterlevel: Full" will appear on the LCD Screen. If the sensor reads that two pins are in contact with water, a yellow LED will turn on, and a message "WaterLevel: Half" will appear on the LCD Screen. If the sensor reads that only one pin is in contact with water, a red LED will turn on, and a message "WaterLevel: Empty" will appear on the LCD Screen.
 Also a condition was created that if the Soil Moisture Sensor reads a value higher than the optimal value of moisture for the plant, AND the Water Level Sensor reads that only one pin is in contact with water, the pump will not be turned on.
 Display the read values and the desirable information on the Serial Monitor of the Arduino IDE.
-Concept of project done by Karen Cariño, Jose Tong, Rex Mendoza Orense, Ricson Que under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde
+Concept of project done by Karen CariÃ±o, Jose Tong, Rex Mendoza Orense, Ricson Que under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde
 Manila, May 3rd to May 16th, 2017
 Input:
 1x Soil Moisture Sensor 5V DC <https://www.e-gizmo.com/>
@@ -461,12 +461,12 @@ Input:
 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
 2x PIR motion sensor (5V-12V)
 1x Photo cell (CdS photoresistor)
-1x 10K½ resistor
+1x 10KÂ½ resistor
 Output:
 1x HXT900 Micro Servo 1.6kg / 0.12sec / 9g
 2x Standard 15kg.cm Metal Gear Digital Servo FT5316M
 2x 5mm red LED
-1x 220½ resistor
+1x 220Â½ resistor
 1x 2.1mm DC barrel jack
 2X Switching Power Supply - Selectable Output 3-12VDC 1000mA
 created May 16th, 2017
