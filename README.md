@@ -423,7 +423,6 @@ This work is licensed under Creative Commons <https://creativecommons.org/licens
 ### Group3
 
 **Animatronic Owl**
-
 Create an animatronic owl, which will follow the user turning its head to the right or to the left side, by a servo motor, based o values read from two PIR sensors attached to opposite sides of the owl and pointed to different directions. If the PIR sensor reads a higher value (detects movement), the owl will turn its head to this specific direction (left or right). If none of the two PIR sensors detects movement, the owl will turn its head into a central position.
 The wings of the owl are attached each to one metal gear servo. They will turn up based on the values of one IFDS, meaning if the user is closer to the object, the wings move higher.
 
@@ -434,20 +433,18 @@ Concept of project done by Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cru
 Manila, May 3rd to May 16th, 2017
 
 **Input:**
-
-1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
-2x PIR motion sensor (5V-12V)
-1x Photo cell (CdS photoresistor)
-1x 10K½ resistor
+- 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
+- 2x PIR motion sensor (5V-12V)
+- 1x Photo cell (CdS photoresistor)
+- 1x 10K½ resistor
 
 **Output:**
+- 1x HXT900 Micro Servo 1.6kg / 0.12sec / 9g
+- 2x Standard 15kg.cm Metal Gear Digital Servo FT5316M
+- 2x 5mm red LED
+- 1x 220½ resistor
+- 1x 2.1mm DC barrel jack
+- 2X Switching Power Supply - Selectable Output 3-12VDC 1000mA
 
-1x HXT900 Micro Servo 1.6kg / 0.12sec / 9g
-2x Standard 15kg.cm Metal Gear Digital Servo FT5316M
-2x 5mm red LED
-1x 220½ resistor
-1x 2.1mm DC barrel jack
-2X Switching Power Supply - Selectable Output 3-12VDC 1000mA
-created May 16th, 2017
-by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos> and Anthony Brian Cruz
+created May 16th, 2017 by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos> and Anthony Brian Cruz
 This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
