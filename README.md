@@ -4,9 +4,9 @@ Responsive Models Workshop from May 3 to May 16, 2017, at the De La Salle-Colleg
 
 At the first week, daily classes of Arduino, Rhinoceros 3D, Grasshopper 3D, Firefly, and digital fabrication took place. Organized by themes and teaching from the very beginning electronic concepts, the classes created a base for the participants to develop their own projects during the second week. At this second phase, the participants were divided into groups of 3 to 4 individuals, and assisted daily by the main tutor, each group developed a responsive working object from their own concept using primarily tools and softwares taught at the first week. The final working prototype was presented after 12 days of classes, made from people who mostly, have none or few experience at electronics or digital fabrication processes.
 
-Conceptual development, organization, creation of classes and main tutoring by Orion Campos.
-Conceptual development by Associate Dean Maria Cynthia Funk.
-Organization and assistant tutoring by Patrick Sunico
+Conceptual development, organization, creation of classes and main tutoring by [Orion Campos](oriongmc@hotmail.com)
+Conceptual development by Associate Dean [Maria Cynthia Funk](atelierfunk2@gmail.com)
+Organization and assistant tutoring by [Patrick Sunico](pat_sunico@yahoo.com)
 
 - **Group 1** Lyle La Madrid, Ronald John Dalmacio, Harvey Vasquez
 - **Group 2** Karen Cari–o, Jose Tong, Rex Mendoza Orense, Ricson Que
@@ -18,107 +18,104 @@ All the files of the Arduino codes, images, Rhinoceros 3D, Grasshopper 3D, etc. 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-Orion Campos
-(www.orioncampos.com)
-linkedin.com/in/orioncampos
-vimeo.com/orioncampos
-github.com/orion-campos
+---
 
-----------------------------------------------
-FILE MAP
-----------------------------------------------
+###FILE MAP
 
-ARDUINO
-	_1_blink
-		_1_blink.ino
-		1_blink.jpg
-	_2_rgb
-		_2_rgb.ino
-		2_rgb.jpg
-	_3_button
-		_3_button.ino
-		3_button.jpg
-	_4_if
-		_4_if.ino
-		4_if.jpg
-	_5_photoresistor
-		_5_photoresistor.ino
-		5_photoresistor.jpg
-	_6_piezo
-		_6_piezo.ino
-		6_piezo.jpg
-	_7_PIR
-		_7_PIR.ino
-		7_PIR.jpg
-	_8_IRDS
-		_8_IRDS.ino
-		8_IRDS.jpg
-	_9_temp_hum
-		_9_temp_hum.ino
-		9_temp_hum.jpg
-	_10_shift
-		_10_shift.ino
-		10_shift.jpg
-	_11_shift_pot
-		_11_shift_pot.ino
-		11_shift_pot.jpg
-	_12_dc_motor
-		_12_dc_motor.ino
-		12_dc_motor.jpg
-	_13_dcmotor_onoff
-		_13_dcmotor_onoff.ino
-		13_dcmotor_onoff.jpg
-	_14_servo
-		_14_servo.ino
-		14_servo.jpg
-	_15_servo_IRDS
-		_15_servo_IRDS.ino
-		15_servo_IRDS.jpg
-GRASSHOPPER3D
-	1_circles	
-		1_circles.3dm
-		1_circles.gh
-		1_circles.png
-	2_turning_tower
-		2_turning_tower.3dm
-		2_turning_tower.gh
-		2_turning_tower.png
-	3_attractor_points
-		3_attractor_points.3dm
-		3_attractor_points.gh
-		3_attractor_points.png
-FIREFLY
-	FIREFLY.ino
-	firefly_turning_tower.3dm
-	firefly_turning_tower.gh
-	110920_Firefly_Users_Guide.pdf
-PROJECTS
-	group1
-		group1.ino
-		group1.png
-		group1_poster.pdf
-	group2
-		group2.ino
-		group2.png
-		shell.3dm
-		shell.gh
-		soil_moisture_sensor.pdf
-		water_level_sensor.pdf
-		group2_poster.pdf
+#ARDUINO
+-1_blink
+	-1_blink.ino
+	-blink.jpg
+-2_rgb
+	-2_rgb.ino
+	-2_rgb.jpg
+-3_button
+	-3_button.ino
+	-3_button.jpg
+-4_if
+	-4_if.ino
+	-4_if.jpg
+-5_photoresistor
+	-5_photoresistor.ino
+	-5_photoresistor.jpg
+-6_piezo
+	-6_piezo.ino
+	-6_piezo.jpg
+-7_PIR
+	-7_PIR.ino
+	-7_PIR.jpg
+-8_IRDS
+	-8_IRDS.ino
+	-8_IRDS.jpg
+-9_temp_hum
+	-9_temp_hum.ino
+	-9_temp_hum.jpg
+-10_shift
+	-10_shift.ino
+	-10_shift.jpg
+-11_shift_pot
+	-11_shift_pot.ino
+	-11_shift_pot.jpg
+-12_dc_motor
+	-12_dc_motor.ino
+	-12_dc_motor.jpg
+-13_dcmotor_onoff
+	-13_dcmotor_onoff.ino
+	-13_dcmotor_onoff.jpg
+-14_servo
+	-14_servo.ino
+	-14_servo.jpg
+-15_servo_IRDS
+	-15_servo_IRDS.ino
+	-15_servo_IRDS.jpg
 
-	group3
-		group3.ino
-		group3.png
-		group3_poster.pdf
-README
+#GRASSHOPPER3D
+-1_circles	
+	-1_circles.3dm
+	-1_circles.gh
+	-1_circles.png
+-2_turning_tower
+	-2_turning_tower.3dm
+	-2_turning_tower.gh
+	-2_turning_tower.png
+-3_attractor_points
+	-3_attractor_points.3dm
+	-3_attractor_points.gh
+	-3_attractor_points.png
 
-----------------------------------------------
-ARDUINO
-----------------------------------------------
+#FIREFLY
+	-FIREFLY.ino
+	-firefly_turning_tower.3dm
+	-firefly_turning_tower.gh
+	-110920_Firefly_Users_Guide.pdf
 
-_1_blink
+#PROJECTS
+-group1
+	-group1.ino
+	-group1.png
+	-group1_poster.pdf
+-group2
+	-group2.ino
+	-group2.png
+	-shell.3dm
+	-shell.gh
+	-soil_moisture_sensor.pdf
+	-water_level_sensor.pdf
+	-group2_poster.pdf
+-group3
+	-group3.ino
+	-group3.png
+	-group3_poster.pdf
 
-Blink
+#README
+
+---
+
+###ARDUINO
+
+#1_blink
+
+`Blink
 Turns on an LED on and off repeatedly.
 It is possible to use the on-board LED. Most Arduinos have an on-board LED you can control. On the UNO, MEGA and ZERO it is attached to digital pin 13.
 If desired, a 5mm LED can be used on digital pin 13. If so, it is not necessary to use a resistor, since the pin 13 allready has a resistor attached.
@@ -132,7 +129,7 @@ by Arturo Guadalupi
 modified September 8th, 2016
 by Colby Newman
 modified May 4th, 2017
-by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
+by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>`
 
 _2_rgb
 
