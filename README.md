@@ -1,4 +1,4 @@
-### ABOUT
+# ABOUT
 
 Responsive Models Workshop from May 3 to May 16, 2017, at the De La Salle-College of Saint Benilde School of Design and Arts, Manila, Philippines, in which faculty members where taught by Orion Campos, during a two weeks workshop, the basics on electronics and digital fabrication to create a responsive object.
 
@@ -20,12 +20,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 ---
 
-### FILE MAP
+# FILE MAP
 
-# ARDUINO
--1_blink
-	-1_blink.ino
-	-blink.jpg
+### ARDUINO
+- 1_blink
+	- 1_blink.ino
+	- blink.jpg
 -2_rgb
 	-2_rgb.ino
 	-2_rgb.jpg
