@@ -366,7 +366,7 @@ by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 ---
 # PROJECTS
 
-### Group1
+## Group1
 
 **Random Drawing Machine**
 
@@ -397,7 +397,7 @@ by Orion Campos <www.orioncampos.com> <https://github.com/orion-campos>
 
 **This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
-### Group2
+## Group2
 
 **Automatic Watering Plant System**
 
@@ -435,7 +435,7 @@ Created May 16th, 2017 by Orion Campos <www.orioncampos.com> <https://github.com
 
 **This work is licensed under Creative Commons <https://creativecommons.org/licenses/by-nc-sa/4.0/> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 
-### Group3
+## Group3
 
 **Animatronic Owl**
 
