@@ -424,7 +424,9 @@ This work is licensed under Creative Commons <https://creativecommons.org/licens
 **Animatronic Owl**
 Create an animatronic owl, which will follow the user turning its head to the right or to the left side, by a servo motor, based o values read from two PIR sensors attached to opposite sides of the owl and pointed to different directions. If the PIR sensor reads a higher value (detects movement), the owl will turn its head to this specific direction (left or right). If none of the two PIR sensors detects movement, the owl will turn its head into a central position.
 The wings of the owl are attached each to one metal gear servo. They will turn up based on the values of one IFDS, meaning if the user is closer to the object, the wings move higher.
+
 An additional behaviour was added to the head, which hosts a photoresistor sensor. Two LEDs will be in the place of the eyes. They will be constantly turned on, until the photoresistor reads a very low value, meaning that someone is blocking the light with its hand (petting the owl), at this moment the LEDs will start to blink repeatedly.
+
 Display the read values and the desirable information on the Serial Monitor of the Arduino IDE.
 Concept of project done by Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cruz, and Patrick Sunico under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde
 Manila, May 3rd to May 16th, 2017
