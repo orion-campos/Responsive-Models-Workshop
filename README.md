@@ -346,7 +346,8 @@ Manila, May 3rd to May 16th, 2017<br>
 - 1X Switching Power Supply - Selectable Output 3-12VDC 2000mA<br>
 
 Created May 16th, 2017 by [Orion Campos](https://github.com/orion-campos)<br>
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group2
 
@@ -377,7 +378,8 @@ Manila, May 3rd to May 16th, 2017<br>
 - 2X Switching Power Supply - Selectable Output 3-12VDC 1000mA<br>
 
 Created May 16th, 2017 by [Orion Campos](https://github.com/orion-campos) and Ricson Que.<br>
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ## Group3
 
@@ -403,4 +405,5 @@ Manila, May 3rd to May 16th, 2017<br>
 - 2X Switching Power Supply - Selectable Output 3-12VDC 1000mA<br>
 
 Created May 16th, 2017 by [Orion Campos](https://github.com/orion-campos) and Anthony Brian Cruz.<br>
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.<br>
+[![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
