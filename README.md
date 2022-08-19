@@ -1,12 +1,12 @@
 # ABOUT
 
-Responsive Models Workshop from May 3 to May 16, 2017, at the De La Salle-College of Saint Benilde School of Design and Arts, Manila, Philippines, in which faculty members where taught by Orion Campos, during a two weeks workshop, the basics on electronics and digital fabrication to create a responsive object.
+Responsive Models Workshop from May 3 to May 16, 2017, at the De La Salle-College of Saint Benilde School of Design and Arts, Manila, Philippines, in which faculty members where taught by Orion Campos, during a two weeks workshop, the basics on electronics and digital fabrication to create a responsive object.<br>
 
-At the first week, daily classes of Arduino, Rhinoceros 3D, Grasshopper 3D, Firefly, and digital fabrication took place. Organized by themes and teaching from the very beginning electronic concepts, the classes created a base for the participants to develop their own projects during the second week. At this second phase, the participants were divided into groups of 3 to 4 individuals, and assisted daily by the main tutor, each group developed a responsive working object from their own concept using primarily tools and softwares taught at the first week. The final working prototype was presented after 12 days of classes, made from people who mostly, have none or few experience at electronics or digital fabrication processes.
+At the first week, daily classes of Arduino, Rhinoceros 3D, Grasshopper 3D, Firefly, and digital fabrication took place. Organized by themes and teaching from the very beginning electronic concepts, the classes created a base for the participants to develop their own projects during the second week. At this second phase, the participants were divided into groups of 3 to 4 individuals, and assisted daily by the main tutor, each group developed a responsive working object from their own concept using primarily tools and softwares taught at the first week. The final working prototype was presented after 12 days of classes, made from people who mostly, have none or few experience at electronics or digital fabrication processes.<br>
 
-Conceptual development, organization, creation of classes and main tutoring by [Orion Campos](oriongmc@hotmail.com)
-Conceptual development by Associate Dean [Maria Cynthia Funk](atelierfunk2@gmail.com)
-Organization and assistant tutoring by [Patrick Sunico](pat_sunico@yahoo.com)
+Conceptual development, organization, creation of classes and main tutoring by [Orion Campos](orioncampos@proton.me)<br>
+Conceptual development by Associate Dean [Maria Cynthia Funk](atelierfunk2@gmail.com)<br>
+Organization and assistant tutoring by [Patrick Sunico](pat_sunico@yahoo.com)<br>
 
 - **Group 1** Lyle La Madrid, Ronald John Dalmacio, Harvey Vasquez
 - **Group 2** Karen Cari–o, Jose Tong, Rex Mendoza Orense, Ricson Que
@@ -19,7 +19,6 @@ Organization and assistant tutoring by [Patrick Sunico](pat_sunico@yahoo.com)
 - This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [![creative](https://img.shields.io/badge/Creative%20Commons-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/)
 
 ---
-
 # FILE MAP
 
 ### ARDUINO
@@ -111,7 +110,6 @@ Organization and assistant tutoring by [Patrick Sunico](pat_sunico@yahoo.com)
 
 ---
 # ARDUINO
-*Arduino file*
 
 ### 1_blink
 Blink<br>
@@ -290,7 +288,6 @@ Output:<br>
 ---
 
 # GRASSHOPPER 3D
-*Rhinoceros 3D and Grasshopper 3D files*
 
 ### 1_circles
 Circles<br>
@@ -309,7 +306,6 @@ Create a series of points, in a rectangular grid, which radius and colors are re
 
 ---
 # FIREFLY
-*Arduino file*
 
 ### FIREFLY
 Firefly and Potentiometer<br>
@@ -338,10 +334,8 @@ The speed of those two motors are related to the values read by two Infrared Dis
 Display the read values and the remapped speed values on the Serial Monitor of the Arduino IDE.<br>
 Concept of project done by Lyle La Madrid, Ronald John Dalmacio, Harvey Vasquez under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde<br>
 Manila, May 3rd to May 16th, 2017<br>
-
 **Input:**
 - 2x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)
-
 **Output:**
 - 2x TIP120 Power Darlington Transistor<br>
 - 2x 1N4001 Diode<br>
@@ -365,11 +359,9 @@ Also a condition was created that if the Soil Moisture Sensor reads a value high
 Display the read values and the desirable information on the Serial Monitor of the Arduino IDE.<br>
 Concept of project done by Karen Cariño, Jose Tong, Rex Mendoza Orense, Ricson Que under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde<br>
 Manila, May 3rd to May 16th, 2017<br>
-
 **Input:**
 - 1x [Soil Moisture Sensor 5V DC](https://www.e-gizmo.com/)<br>
 - 1x [Water Level Sensor 5V DC](https://www.e-gizmo.com/)<br>
-
 **Output:**
 - 1x TIP120 Power Darlington Transistor<br>
 - 1x 1N4001 Diode<br>
@@ -397,13 +389,11 @@ An additional behaviour was added to the head, which hosts a photoresistor senso
 Display the read values and the desirable information on the Serial Monitor of the Arduino IDE.<br>
 Concept of project done by Dorothy Chan, Stuart Paul Dee Yang, Anthony Brian Cruz, and Patrick Sunico under the tuition of Orion Campos, at the Arduino Responsive Models Workshop, De La Salle College of Saint Benilde<br>
 Manila, May 3rd to May 16th, 2017<br>
-
 **Input:**
 - 1x SHARP IR distance sensor (GP2Y0A21YK0F - 10 to 80cm range, GP2Y0A02YK - 20 to 150cm range, GP2Y0A710K0F - 100 to 500cm)<br>
 - 2x PIR motion sensor (5V-12V)<br>
 - 1x Photo cell (CdS photoresistor)<br>
 - 1x 10K½ resistor<br>
-
 **Output:**
 - 1x HXT900 Micro Servo 1.6kg / 0.12sec / 9g<br>
 - 2x Standard 15kg.cm Metal Gear Digital Servo FT5316M<br>
